@@ -1,4 +1,4 @@
-for counter in range(20): 
+for counter in range(200): 
     if counter == 3:
         print("prawda")
     else:
